@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-p {
+h2 {
     color: brown;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
     font-size: larger;
 }
 
@@ -13,9 +11,10 @@ article {
 ul {
     text-align: left;
 }
+
 li {
-    font-size: medium;
-=======
+    font-size: larger;
+}
 body{
     background-color: rgb(221, 213, 199);
 }
@@ -44,5 +43,8 @@ img{
     margin-bottom: 20px;
     margin-left: 30%;
     border-radius: 10px;
->>>>>>> 9f079509700302409c51c88e6df10daccaee322c
+}
+h1 {
+    font-size: xx-large;
+    background-color: white;
 }
