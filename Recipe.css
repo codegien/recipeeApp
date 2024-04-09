@@ -1,0 +1,17 @@
+p {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+article {
+    background-color: rgba(243, 225, 228, 0.3);
+}
+
+ul {
+    text-align: left;
+}
+li {
+    font-size: medium;
+}
